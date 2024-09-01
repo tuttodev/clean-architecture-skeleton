@@ -1,5 +1,5 @@
 {
-  "name": "domina-onion-architecture-creacion-de-proyectos-con-clean-architecture-en-nestjs",
+  "name": "clean-architecture-skeleton",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
